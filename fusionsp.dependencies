@@ -18,7 +18,7 @@
         "revision": "cm-11.0"
     },
     {
-        "remote": "fs-dev",
+        "remote": "fusion",
         "repository": "android_hardware_samsung",
         "target_path": "hardware/samsung",
         "revision": "lp5.0"
